@@ -3,6 +3,7 @@ turtle.getscreen().bgcolor("burlywood")
 godard = turtle.Turtle()
 godard.speed(5)
 godard.color('red','#400d00')
+turtle.title("Coloured Indian Flag")
 godard.hideturtle()
 
 # stick
